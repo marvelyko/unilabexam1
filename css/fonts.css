@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('../fonts/PoppinsLight.eot');
+    src: url('../fonts/PoppinsLight.eot') format('embedded-opentype'),
+         url('../fonts/PoppinsLight.woff2') format('woff2'),
+         url('../fonts/PoppinsLight.woff') format('woff'),
+         url('../fonts/PoppinsLight.ttf') format('truetype'),
+         url('../fonts/PoppinsLight.svg#PoppinsLight') format('svg');
+}
+
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../fonts/PoppinsRegular.eot');
+    src: url('../fonts/PoppinsRegular.eot') format('embedded-opentype'),
+         url('../fonts/PoppinsRegular.woff2') format('woff2'),
+         url('../fonts/PoppinsRegular.woff') format('woff'),
+         url('../fonts/PoppinsRegular.ttf') format('truetype'),
+         url('../fonts/PoppinsRegular.svg#PoppinsRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../fonts/PoppinsMedium.eot');
+    src: url('../fonts/PoppinsMedium.eot') format('embedded-opentype'),
+         url('../fonts/PoppinsMedium.woff2') format('woff2'),
+         url('../fonts/PoppinsMedium.woff') format('woff'),
+         url('../fonts/PoppinsMedium.ttf') format('truetype'),
+         url('../fonts/PoppinsMedium.svg#PoppinsMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/LatoRegular.eot');
+    src: url('../fonts/LatoRegular.eot') format('embedded-opentype'),
+         url('../fonts/LatoRegular.woff2') format('woff2'),
+         url('../fonts/LatoRegular.woff') format('woff'),
+         url('../fonts/LatoRegular.ttf') format('truetype'),
+         url('../fonts/LatoRegular.svg#LatoRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'Lato-Light';
+    src: url('../fonts/LatoLight.eot');
+    src: url('../fonts/LatoLight.eot') format('embedded-opentype'),
+         url('../fonts/LatoLight.woff2') format('woff2'),
+         url('../fonts/LatoLight.woff') format('woff'),
+         url('../fonts/LatoLight.ttf') format('truetype'),
+         url('../fonts/LatoLight.svg#LatoLight') format('svg');
+}
+
+@font-face {
+    font-family: 'Lato-Bold';
+    src: url('../fonts/LatoBold.eot');
+    src: url('../fonts/LatoBold.eot') format('embedded-opentype'),
+         url('../fonts/LatoBold.woff2') format('woff2'),
+         url('../fonts/LatoBold.woff') format('woff'),
+         url('../fonts/LatoBold.ttf') format('truetype'),
+         url('../fonts/LatoBold.svg#LatoBold') format('svg');
+}
+
+@font-face {
+    font-family: 'DancingScriptBold';
+    src: url('../fonts/DancingScriptBold.eot');
+    src: url('../fonts/DancingScriptBold.eot') format('embedded-opentype'),
+         url('../fonts/DancingScriptBold.woff2') format('woff2'),
+         url('../fonts/DancingScriptBold.woff') format('woff'),
+         url('../fonts/DancingScriptBold.ttf') format('truetype'),
+         url('../fonts/DancingScriptBold.svg#DancingScriptBold') format('svg');
+}
